@@ -1,30 +1,32 @@
-# Shirmani Research Institute
+# Shirmani Research Paper
 
-Unified digital research and archive platform.
+Academic philosophical and cognitive research portal.
 
 🌐 **Live Website:**  
-https://rampaulsaini.github.io/Shirmani-Research-Institute-Shirmani-Research-Institute-/
+https://rampaulsaini.github.io/Shirmani-Research-Paper/
 
 ---
 
-## Platform Includes
+## Overview
 
-- Research Framework
-- Audio Archive
-- Photo & Video Collections
-- Omniverse Project Network
-- Structured Knowledge Sections
+This repository contains a structured research presentation focused on:
 
----
-
-## Technology
-
-- Pure HTML5
-- Modern CSS Layout
-- Responsive Grid System
+- Time Deconstruction Theory
+- Neurobiology of Self
+- Ego Dissolution Framework
+- Heart-Mind Balance Model
 
 ---
 
-Hosted via GitHub Pages.
+## Files Included
 
-© 2026 Shirmani Research Institute
+- index.html
+- research-paper.pdf
+
+---
+
+## Deployment
+
+Hosted via GitHub Pages from the main branch.
+
+© 2026 Shirmani Research
