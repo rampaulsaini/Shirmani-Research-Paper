@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "repo": "rampaulsaini/Shirmani-Research-Paper",
+  "role": "research-publishing",
+  "description": "Research publishing worker: inventory papers and mark generated research as draft pending independent verification.",
+  "mode": "free-first",
+  "ai_provider": "optional",
+  "policy": {
+    "no_paid_api_required": true,
+    "do_not_execute_untrusted_code": true,
+    "research_label": "draft",
+    "no_scientific_validation_claims": true
+  }
+}
